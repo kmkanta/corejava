@@ -17,6 +17,6 @@ public class ToCheckEvenOrOdd {
 	}
 public static void main(String[] args) {
 	ToCheckEvenOrOdd obj = new ToCheckEvenOrOdd();
-	obj.toCheckEvenOrOdd();
+	obj.toCheckEvenOrOdd();//Sample
 }
 }
